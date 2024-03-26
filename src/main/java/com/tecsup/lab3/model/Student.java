@@ -6,6 +6,8 @@ public class Student {
 		
 		String nombre = "ERMINIO";
 		System.out.print("Hola mundo en MAVEN Y GIT CON: "+ nombre);
+		System.out.print("Hola");
+		
 
 	}
 

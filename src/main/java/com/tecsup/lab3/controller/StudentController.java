@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class StudentController {
 	public static void main(String[] args) {
-	   System.out.println("Rolando desde sprint-2");
+	   System.out.println("Werner desde sprint-2");
         int numero1, numero2, suma;
         Scanner teclado = new Scanner(System.in);
 

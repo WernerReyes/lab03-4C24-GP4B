@@ -8,7 +8,6 @@ public class Student {
 		System.out.println("Hola mundo en MAVEN Y GIT CON: "+ nombre);
 		System.out.println("Subiendo Cambios");
 		
-
 	}
 
 }
